@@ -1,7 +1,7 @@
 {
   "version": 2,
   "env": {
-    "RENDER_URL": "https://render-backend-f36w.onrender.com"
+    "RENDER_URL": "lien de votre server render"
   },
   "builds": [
     {
