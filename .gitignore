@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/** 
+.env
+
+# VSCode
+.vscode/
+
+# Whisper models (if cached locally)
+~/.cache/whisper/
+
+# Render build artifacts
+build/
+dist/
+
+# Audio temp files
+*.wav
+*.mp3
+models/** 
